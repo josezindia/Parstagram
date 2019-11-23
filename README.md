@@ -26,9 +26,6 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/u8xmichHAy.gif' title='Video Walkthrough' width='' height='350' alt='Video Walkthrough' />
 
 
-#-------------------------------------------------------------------------------------------------------------------------
-
-
 # Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
